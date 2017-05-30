@@ -1,4 +1,4 @@
-## <center> Linux 安装vsftpd教程 </center> ##
+ <center>  ## Linux 安装vsftpd教程 ##  </center>
 1. yum install nginx　　安装nginx
 1. service nginx start　　启动nginx
 1. yum install vsftpd -y　　安装vsftpd
